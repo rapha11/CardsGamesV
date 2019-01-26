@@ -1,0 +1,25 @@
+{
+  "name": "cards-games",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raphaelgloire@yahoo.fr",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapha11/CardsGames.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rapha11/CardsGames/issues"
+  },
+  "homepage": "https://github.com/rapha11/CardsGames#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.6",
+    "nunjucks": "^3.1.7"
+  }
+}
